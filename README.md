@@ -5,7 +5,7 @@
 Proyek ini bertujuan untuk mengklasifikasikan gambar sampah menjadi dua kategori, yaitu sampah organik dan sampah anorganik menggunakan metode Convolutional Neural Network (CNN).
 
 ## Dataset
-
+Link Dataset: https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification
 Dataset terdiri dari 1858 gambar yang dibagi menjadi dua kelas:
 
 * Organik
