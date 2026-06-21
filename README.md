@@ -91,11 +91,11 @@ https://docs.google.com/presentation/d/1yCpuWHmWaAmWFkGVHmJDRu_nMkKCSyCI/edit?us
 
 ### Video Demo
 
-[Tambahkan link video demo di sini](https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification)
+https://drive.google.com/file/d/1vBEVt1BD8-R5a6CewP2jrmy4ZLoMP4b-/view?usp=drive_link
 
 ### Dataset
 
-Tambahkan link dataset di sini
+https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification
 
 ---
 
