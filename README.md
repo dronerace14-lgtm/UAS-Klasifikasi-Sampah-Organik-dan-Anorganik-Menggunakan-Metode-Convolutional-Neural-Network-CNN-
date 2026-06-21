@@ -91,7 +91,7 @@ https://docs.google.com/presentation/d/1yCpuWHmWaAmWFkGVHmJDRu_nMkKCSyCI/edit?us
 
 ### Video Demo
 
-Tambahkan link video demo di sini
+[Tambahkan link video demo di sini](https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification)
 
 ### Dataset
 
